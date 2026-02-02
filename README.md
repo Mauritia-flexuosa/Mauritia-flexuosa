@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcio Cure.  /  Hi! My name is Marcio Cure. 👋
 
-- 🔭 Atualmente estou trabalhando no meu projeto de doutorado em <a href="https://www.poseco.ufsc.br">ecologia</a> sobre o funcionamento de florestas e savanas tropicais. Sou Bacharel em Gestão Ambiental e Mestre em Ecologia. Também atuo na governança comunitária local. Além de estudar (quase o tempo inteiro), também gosto trabalhos de campo com muita ralação e histórias pra contar.
+- 🔭 Sou Bacharel em Gestão Ambiental, Mestre e Doutor em Ecologia. Minha tese de doutorado em <a href="https://www.poseco.ufsc.br">ecologia</a> buscou caracterizar os estados funcionais da vegetação tropical. Atualmente sou professor da educação escolar quilombola da Secretaria de Estado da Educação de Santa Catarina. Também atuo na governança comunitária local. Além de estudar teoria, também gosto de trabalhos de campo com muita ralação e histórias pra contar.
 
 - <a href="https://pt.wikipedia.org/wiki/Buriti"><i>Mauritia flexuosa</i></a> é o nome científico de uma palmeira majestosa do Cerrado chamada popularmente de Buriti.
 
