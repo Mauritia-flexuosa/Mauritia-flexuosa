@@ -1,12 +1,14 @@
 ### Olá! Eu sou o Marcio Cure.  /  Hi! My name is Marcio Cure. 👋
 
-- 🔭 Sou Bacharel em Gestão Ambiental, Mestre e Doutor em Ecologia. Minha tese de doutorado em <a href="https://www.poseco.ufsc.br">ecologia</a> buscou caracterizar os estados funcionais da vegetação tropical. Atualmente sou professor da educação escolar quilombola da Secretaria de Estado da Educação de Santa Catarina. Também atuo na governança comunitária local. Além de estudar teoria, também gosto de trabalhos de campo com muita ralação e histórias pra contar.
+- 🔭 I hold a Bachelor's degree in Environmental Management, along with a Master's and a PhD in <a href="https://www.poseco.ufsc.br">Ecology</a>. My doctoral research focused on characterizing the functional states of Neotropical vegetation. Currently, I am a teacher in the Quilombola school system for the Santa Catarina State Department of Education. I am also actively involved in local community governance. Beyond the theory, I have a deep passion for hands-on fieldwork—the kind that involves hard work filled with great stories to tell.
 
-- <a href="https://pt.wikipedia.org/wiki/Buriti"><i>Mauritia flexuosa</i></a> é o nome científico de uma palmeira majestosa do Cerrado chamada popularmente de Buriti.
+- <a href="https://pt.wikipedia.org/wiki/Buriti"><i>Mauritia flexuosa</i></a> is the scientific name of the Buriti, a majestic palm tree from the Brazilian Cerrado.
+  
+- I discovered <a href="https://r-project.org">R</a> during my academic journey and fell in love with data analysis, coding, and its endless possibilities.
 
-- Me deparei com o <a href="https://r-project.org">R</a> no percurso da vida acadêmica e me apaixonei por análises, códigos e suas infinitas possibilidades.
-
-- Este é o meu <a href="http://lattes.cnpq.br/1138521779927217">Currículo Lattes</a>
+- Currently, I am expanding my horizons by learning <i>Python</i> to further enhance my analytical toolkit.
+ 
+- This is my <a href="http://lattes.cnpq.br/1138521779927217">Currículum Lattes</a>
 
 - 😄 Pronomes-Pronouns: ele/dele  -  he/him
 
